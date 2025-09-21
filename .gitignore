@@ -1,3 +1,17 @@
-GEMINI.md
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment files
+*.yml
+*.yaml
 environment.yml
+environment.yaml
+
+# Documentation (if needed)
+GEMINI.md
